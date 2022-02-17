@@ -26,6 +26,8 @@
 * Transform (construct star schema data models to enable reporting)
 * Validate (ensure the data models provide accurate intelligence)
 * Present (deliver intelligence through reports)
+
+![8 Phases](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png "8 Phases")
 <br> <br>
 <br> <br>
 
@@ -80,7 +82,6 @@
 >* Simple (spreadsheet based comparisons), Durable (repeatable process established at start of validation), Transferrable (discrepancies well-documented)
 
 ### 8. Present
-![](https://raw.githubusercontent.com/jakeburnsfast/BIProcess/main/Test%20Image.png) 
 >* Build reporting environment (licensing, workspaces, client access)
 >* Agree on a design standard (colors, slicers, visuals, etc.)
 >* Attach to data model(s) and author final calculations and KPIs
@@ -88,6 +89,3 @@
 >* Validate the reports
 >* Obtain sign off
 >* Relase reports and documentation
-
-Test image
-![tryThis](https://raw.githubusercontent.com/jakeburnsfast/BIProcess/main/Test%20Image.png "Okey Dokey")
