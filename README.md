@@ -33,6 +33,8 @@
 
 # Phase Details
 ### 1. Assimilate
+![Assimilate](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/1_Assimilate.png "Assimilate")
+>*![Assimilate](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/1_Assimilate.png "Assimilate")
 >* Meet with project sponsors to grasp their vision
 >* Review current reporting assets / environment
 >* Meet with developers / analysts / report consumers
