@@ -5,6 +5,7 @@ I have 10+ years of report development experience, including forecasting, digita
 <p></p>
 I offer consulting services on the side and am able to work with clients M-F prior to 10AM EST, and Saturdays as needed.  An initial implementation of a BI system (detailed below) can be 100 or 1,000 hours (and anything in between) so I am only able to take on "right-size" work that makes sense for the client.
 </p>
+<a href="https://www.linkedin.com/in/jakeburnsoh/">LinkedIn Profile</a>
 </details>
 
 ---
@@ -14,9 +15,9 @@ I offer consulting services on the side and am able to work with clients M-F pri
 
 #### <u>Principles</u>
 ##### Development work is calibrated to be:
-* **Simple** | Clean, refined code and processes mean less technical debt, shorter time to fix, and less overall cost
-* **Durable** | Solutions written on proven standards, best practices, and widely used technologies will break less over time
-* **Transferrable** | Thorough, consistent documentation means solutions can be passed to other developers will less time lost or risk for a full rebuild
+* **Simple**: Clean, refined code and processes mean less technical debt, shorter time to fix, and less overall cost
+* **Durable**: Solutions written on proven standards, best practices, and widely used technologies will break less over time
+* **Transferrable**: Thorough, consistent documentation means solutions can be passed to other developers will less time lost or risk for a full rebuild
 
 #### <u>Pricing</u>
 ##### Fixed price based on:
@@ -33,7 +34,7 @@ I offer consulting services on the side and am able to work with clients M-F pri
 #### <u>Process</u>
 ##### Eight phases of development:
 
-<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png" alt="Process" style="zoom:70%" align=left />
+<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png" alt="Process" style="zoom:70%" />
 
 1. Assimilate (business areas, current report authorship)
 2. Design (define metrics needed, source systems, infrastructure)
