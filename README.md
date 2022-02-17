@@ -1,45 +1,60 @@
-## Full BI Implementation
+## Business Intelligence Implementations | by Jake Burns
+<details><summary>About Jake</summary>
+<p>
+I have 10+ years of report development experience, including forecasting, digital marketing analysis, geo-applications, healthcare, commercial services, and manufacturing.  I currently work full time as a data warehouse developer at Blue Margin, Inc. where I am blessed to be constantly learning from new clients and BI applications in the Microsoft cloud infrastructures.
+<p></p>
+I offer consulting services on the side and am able to work with clients M-F prior to 10AM EST, and Saturdays as needed.  An initial implementation of a BI system (detailed below) can be 100 or 1,000 hours (and anything in between) so I am only able to take on "right-size" work that makes sense for the client.
+</p>
+</details>
+
 ---
 ### Source data extraction through report delivery 
-##### Simple | Durable | Transferable
+##### Simple | Durable | Transferrable
 <br>
 
-## Pricing
-#### Fixed price based on:
+#### <u>Principles</u>
+##### Development work is calibrated to be:
+* **Simple** | Clean, refined code and processes mean less technical debt, shorter time to fix, and less overall cost
+* **Durable** | Solutions written on proven standards, best practices, and widely used technologies will break less over time
+* **Transferrable** | Thorough, consistent documentation means solutions can be passed to other developers will less time lost or risk for a full rebuild
+
+#### <u>Pricing</u>
+##### Fixed price based on:
 * Number / nature of source systems
 * Landscape of desired reporting
 * Complexity of transforms
 
-## Platform
-#### Microsoft Azure family of resources:
+#### <u>Platform</u>
+##### Microsoft Azure family of resources:
 * Full toolset available (extraction, staging, modeling, reporting)
 * Integration friendly  (data sources / non native languages)
 * Flexible pricing 
 
-## Process
-#### Eight phases of development:
-* Assimilate (business areas, current report authorship)
-* Design (define metrics needed, source systems, infrastructure)
-* Extract (attach applications / pipelines to source data) (**AS NEEDED**)
-* Load (replicate source data in data lake) (**AS NEEDED**)
-* Stabilize (optimize performance/cost, ensure daily synchronization) (**AS NEEDED**)
-* Transform (construct star schema data models to enable reporting)
-* Validate (ensure the data models provide accurate intelligence)
-* Present (deliver intelligence through reports)
+#### <u>Process</u>
+##### Eight phases of development:
 
-![8 Phases](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png "8 Phases")
-<br> <br>
-<br> <br>
+<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png" alt="Process" style="zoom:70%" align=left />
+
+1. Assimilate (business areas, current report authorship)
+2. Design (define metrics needed, source systems, infrastructure)
+3. Extract (attach applications / pipelines to source data) (**AS NEEDED**)
+4. Load (replicate source data in data lake) (**AS NEEDED**)
+5. Stabilize (optimize performance/cost, ensure daily synchronization) (**AS NEEDED**)
+6. Transform (construct star schema data models to enable reporting)
+7. Validate (ensure the data models provide accurate intelligence)
+8. Present (deliver intelligence through reports)
+   <br><br>
 
 # Phase Details
 ### 1. Assimilate
-![Assimilate](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/1_Assimilate.png "Assimilate")
->*![Assimilate](https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/1_Assimilate.png "Assimilate")
+
+<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/1_Assimilate.png" alt="Assimilate" style="zoom:30%" align=left />
+
 >* Meet with project sponsors to grasp their vision
 >* Review current reporting assets / environment
 >* Meet with developers / analysts / report consumers
 >* Clearly grasp how the organization currently uses data
->* Guage in-house technical skill and capacity to support the project
+>* Gauge in-house technical skill and capacity to support the project
 >* Simple (N/A), Durable (N/A), Transferrable (N/A)
 
 ### 2. Design
@@ -90,4 +105,4 @@
 >* Meet with the client 2-3 to collaborate
 >* Validate the reports
 >* Obtain sign off
->* Relase reports and documentation
+>* Release reports and documentation
