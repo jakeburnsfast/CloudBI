@@ -1,5 +1,6 @@
-## Business Intelligence Implementations | by Jake Burns
-<details><summary>About Jake</summary>
+## Business Intelligence Design and Development
+### Source data extraction through report delivery 
+<details><summary>by Jake Burns</summary>
 <p>
 I have 10+ years of report development experience, including forecasting, digital marketing analysis, geo-applications, healthcare, commercial services, and manufacturing.  I currently work full time as a data warehouse developer at Blue Margin, Inc. where I am blessed to be constantly learning from new clients and BI applications in the Microsoft cloud infrastructures.
 <p></p>
@@ -7,43 +8,37 @@ I offer consulting services on the side and am able to work with clients M-F pri
 </p>
 <a href="https://www.linkedin.com/in/jakeburnsoh/">LinkedIn Profile</a>
 </details>
-
----
-### Source data extraction through report delivery 
-##### Simple | Durable | Transferrable
 <br>
 
-#### <u>Principles</u>
-##### Development work is calibrated to be:
+#### Guiding <u>Principles</u>
 * **Simple**: Clean, refined code and processes mean less technical debt, shorter time to fix, and less overall cost
 * **Durable**: Solutions written on proven standards, best practices, and widely used technologies will break less over time
 * **Transferrable**: Thorough, consistent documentation means solutions can be passed to other developers will less time lost or risk for a full rebuild
 
-#### <u>Pricing</u>
-##### Fixed price based on:
-* Number / nature of source systems
-* Landscape of desired reporting
-* Complexity of transforms
-
-#### <u>Platform</u>
-##### Microsoft Azure family of resources:
+#### Trusted <u>Platform</u>
+* Microsoft Azure resources are used to design and deploy most solutions
 * Full toolset available (extraction, staging, modeling, reporting)
 * Integration friendly  (data sources / non native languages)
 * Flexible pricing 
 
-#### <u>Process</u>
-##### Eight phases of development:
+#### Fixed <u>Pricing</u>
+* Pricing is fixed based on a thorough evaluation of the project requirements, including:
+    * Number / nature of source systems
+    * Landscape of desired metrics and KPIs
+    * Complexity of transformations needed
 
-<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png" alt="Process" style="zoom:70%" />
+#### Defined  <u>Process</u>
 
-1. Assimilate (business areas, current report authorship)
-2. Design (define metrics needed, source systems, infrastructure)
-3. Extract (attach applications / pipelines to source data) (**AS NEEDED**)
-4. Load (replicate source data in data lake) (**AS NEEDED**)
-5. Stabilize (optimize performance/cost, ensure daily synchronization) (**AS NEEDED**)
-6. Transform (construct star schema data models to enable reporting)
-7. Validate (ensure the data models provide accurate intelligence)
-8. Present (deliver intelligence through reports)
+<img src="https://raw.githubusercontent.com/jakeburnsfast/CloudBI/main/Process.png" alt="Process" style="zoom:70%" align="left"/>
+
+>1. Assimilate (business areas, current report authorship)
+>2. Design (define metrics needed, source systems, infrastructure)
+>3. Extract (attach applications / pipelines to source data) (**AS NEEDED**)
+>4. Load (replicate source data in data lake) (**AS NEEDED**)
+>5. Stabilize (optimize performance/cost, ensure daily synchronization) (**AS NEEDED**)
+>6. Transform (construct star schema data models to enable reporting)
+>7. Validate (ensure the data models provide accurate intelligence)
+>8. Present (deliver intelligence through reports)
    <br><br>
 
 # Phase Details
